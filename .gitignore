@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local data, pretrained weights, and generated artifacts
+dataset/*
+!dataset/README.md
+pretrained_models/*
+!pretrained_models/README.md
+checkpoints/
+logs/
+results/
+test_results/
+wandb/
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+
+# Experiment output
+result_long_term_forecast.txt

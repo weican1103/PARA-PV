@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Optional frozen Chronos2 prior branch (Python >= 3.10).
+chronos-forecasting>=2.0
