@@ -90,3 +90,16 @@ python run.py --model PARA-PV --forecast_mode prob \
 ```
 
 Run `python run.py --help` for all settings.
+
+
+Please cite our work:
+@article{FAN2026143011,
+title = {PARA-PV: Physics-Aware Retrieval-Augmented PV prediction based on frozen foundation model and distribution shift correction},
+journal = {Energy},
+pages = {143011},
+year = {2026},
+issn = {0360-5442},
+doi = {https://doi.org/10.1016/j.energy.2026.143011},
+url = {https://www.sciencedirect.com/science/article/pii/S036054422603118X},
+author = {Hang Fan and Weican Liu and Ying Lu and Dunnan Liu and Long Cheng and Wei Wei}
+}
